@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Krishna Gurjar
+- 👀 I’m interested in building Machine Learning Models
+- 🌱 I’m currently learning Deep Learning & AI
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 Reach me through my Linkedin Account which is provided in my profile ( https://www.linkedin.com/feed/ )
+- Iam going to share my all Projects in this GitHub Account
